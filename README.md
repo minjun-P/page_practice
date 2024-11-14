@@ -1,16 +1,10 @@
 # page_practice
 
-A new Flutter project.
+Navigator 2.0에 대한 이해를 높이기 위해 진행한 튜토리얼 과정
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+- [공식 튜토리얼](https://medium.com/flutter/learning-flutters-new-navigation-and-routing-system-7c9068155ade)
+  This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+플러터 개발자인 John의 공식 튜토리얼 따라가기. Navigator2.0이 wrapping된 Go Router 같은거 말고, 순정 버전으로 진행
